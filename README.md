@@ -1,4 +1,4 @@
-# Teste Tecnico Prover
+# Teste Técnico Prover
 ## Especificações
 * Java 8
 ## Executar o projeto:
